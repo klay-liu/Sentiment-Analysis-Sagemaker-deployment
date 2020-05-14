@@ -1,7 +1,4 @@
-
-# 请审阅老师直接审阅最新提交的项目，ignore之前提交的问题，谢谢
-
-SageMaker 部署实战项目
+# SageMaker 部署实战项目
 
 完成此项目中提供的 notebook 和 Python 文件后，会生成一个简单的循环神经网络情感分析网络应用。此项目假设你熟悉 SageMaker，迷你项目 Sentiment Analysis using XGBoost 应该会提供足够的背景信息。
 
